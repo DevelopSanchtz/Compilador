@@ -1,0 +1,15 @@
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\bin\Debug\Analizador-Automatas.exe.config
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\bin\Debug\Analizador-Automatas.exe
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\bin\Debug\Analizador-Automatas.pdb
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\bin\Debug\Irony.dll
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\bin\Debug\Irony.Interpreter.dll
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\bin\Debug\Irony.pdb
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\bin\Debug\Irony.Interpreter.pdb
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\obj\Debug\Analizador-Automatas.csprojAssemblyReference.cache
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\obj\Debug\Analizador_Automatas.Form1.resources
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\obj\Debug\Analizador_Automatas.Properties.Resources.resources
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\obj\Debug\Analizador-Automatas.csproj.GenerateResource.cache
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\obj\Debug\Analizador-Automatas.csproj.CoreCompileInputs.cache
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\obj\Debug\Analizador-Automatas.csproj.CopyComplete
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\obj\Debug\Analizador-Automatas.exe
+C:\Users\ErickArmando\source\repos\Analizador\Analizador-Automatas\obj\Debug\Analizador-Automatas.pdb
